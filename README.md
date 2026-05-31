@@ -32,6 +32,7 @@ python app.py
 
 - `currency_converter/index.html`을 더블 클릭하여 실행하면 바로 웹 앱이 열립니다.
 - `open_site.bat`을 실행하면 기본 브라우저에서 `index.html`을 엽니다.
+- 페이지에 한국어/영어 언어 전환 기능이 추가되었습니다.
 - 또는 정적 웹 서버(예: GitHub Pages, Vercel, Netlify)로 배포
 
 ## 공개 호스팅 (아무 컴퓨터에서 접속)
